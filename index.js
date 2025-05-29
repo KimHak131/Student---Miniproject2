@@ -38,6 +38,6 @@ app.put('/editprofile', (req, res) => {
 });
 
 // START THE SERVER ON PORT 5010
-app.listen(5010, () => {
+app.listen(5005, () => {
     console.log('EXPRESS Server Started at Port No: 5005');
 });
